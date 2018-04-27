@@ -16,6 +16,6 @@ end
 #
 puts "\033[43m------\033[0m"
 
-client.search("#cyberscience").take(100).each do |tweet|
+client.search("#science").take(100).each do |tweet|
 	puts tweet.text
 end
