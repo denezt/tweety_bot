@@ -42,4 +42,5 @@ end
 ### Project References:
 
  * [ruby-lang](https://www.ruby-lang.org/en/) Ruby Programming Language
- * [Research](https://www.garagebarge.com/dbresults.php?username=guest&userid=0000000000000000&q=ruby) Language References
+
+ * [Research](https://garagebarge.com/dbresults.php?q=ruby) Language References
